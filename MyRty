@@ -35,7 +35,10 @@ sudo docker run hello-world
  
 
 git clone https://github.com/ObolNetwork/charon-distributed-validator-node.git
- 
+
+
+#Test
+
 
 cd charon-distributed-validator-node/
 
