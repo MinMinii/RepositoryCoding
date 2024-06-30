@@ -4,9 +4,6 @@ sudo apt update && sudo apt install apt-transport-https ca-certificates curl sof
 #sudo apt update instruction
 
 
-#get install
-
-
 sudo apt install git-all 
  
  
