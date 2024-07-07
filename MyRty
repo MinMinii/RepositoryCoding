@@ -59,9 +59,6 @@ screen -S obol
 cd charon-distributed-validator-node
 
 
-#install docker
-
-
 docker compose up -d
 
 
