@@ -38,7 +38,7 @@ git clone https://github.com/ObolNetwork/charon-distributed-validator-node.git
 #Test
 
 
-cd charon-distributed-validator-node/
+cd charon-distributed-validator-node
 
 
 mkdir .charon  
