@@ -56,6 +56,9 @@ apt install screen
 screen -S obol
 
 
+#$Home - validator-node
+
+
 cd charon-distributed-validator-node
 
 
