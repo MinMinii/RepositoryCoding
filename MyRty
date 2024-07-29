@@ -7,9 +7,6 @@ sudo apt install git-all
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 
-#update
-
-
 sudo apt-get update
  
 
